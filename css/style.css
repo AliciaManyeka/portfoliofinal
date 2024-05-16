@@ -494,7 +494,6 @@ table {
   padding: 10px;
 }
 .about .container .row .about-image .toonn {
-  padding-top: 4rem;
   padding-left: 6rem;
   height: 45px;
 }
@@ -544,6 +543,8 @@ table {
   background: #1b1b1b;
 }
 .about .container .row .about-image img {
+  width: 100%;
+  max-width: 350px;
   border: 2px;
   border-top-right-radius: 25%;
   border-bottom-left-radius: 25%;

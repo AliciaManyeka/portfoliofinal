@@ -553,8 +553,9 @@ p{
  .about-image{
   // align-items: center;
    //position: relative;
+   
    .toonn{
-    padding-top: 4rem;
+    //padding-top: 4rem;
     padding-left:6rem ;
     height: 45px;
     .btn9{
@@ -608,6 +609,10 @@ p{
                   }
   }
    img{
+    
+    width: 100%;
+    max-width: 350px;
+    // height:450px;
        border: 2px;
        border-top-right-radius: 25%;
        border-bottom-left-radius: 25%;
